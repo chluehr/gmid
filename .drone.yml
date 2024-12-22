@@ -7,7 +7,6 @@ steps:
   image: plugins/docker
   settings:
     repo: chluehr/gmid
-    auto_tag: true
     tags:
       - latest
       - '2.1.1'
